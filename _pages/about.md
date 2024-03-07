@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fei Luo's personal websites"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
